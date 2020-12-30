@@ -1,0 +1,10 @@
+.vscode
+.idea
+node_modules
+
+commands/**/node_modules
+core/**/node_modules
+models/**/node_modules
+utils/**/node_modules
+**/**/node_modules
+lerna-debug.log
